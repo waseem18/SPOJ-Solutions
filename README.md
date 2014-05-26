@@ -1,4 +1,3 @@
-
 Note:
 It is in your own benifit that I suggest you not to directly use these solutions in spoj. Instead understand the code and try to use it in your own way.
 
