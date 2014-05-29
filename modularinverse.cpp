@@ -1,3 +1,6 @@
+//(n+1)modn^2 = (1-n)
+
+
 #include<iostream>
 using namespace std;
 
