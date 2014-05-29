@@ -5,7 +5,6 @@ I use it as a backup for my own code.
 
 Incase anyone wants to use these code, I don't have any issues.
 
-Happy Coding!
 
 
 
