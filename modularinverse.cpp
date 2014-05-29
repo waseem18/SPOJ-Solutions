@@ -1,4 +1,5 @@
 //(n+1)modn^2 = (1-n)
+// 'x' gives the Modular inverse of a%b, while 'y' gives the modular inverse of 'b%a'
 
 
 #include<iostream>
