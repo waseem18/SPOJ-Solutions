@@ -1,4 +1,4 @@
-
+//Hashtable algorithm in C++ using chaining
 
 #include<iostream>
 #include<vector>
