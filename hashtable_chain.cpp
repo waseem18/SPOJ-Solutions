@@ -1,7 +1,11 @@
+
+
 #include<iostream>
 #include<vector>
 #include<cstdlib>
 #include<cmath>
+#include<algorithm>
+
 using namsepace std;
 
 class Node
