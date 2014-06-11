@@ -1,5 +1,4 @@
-//Hashtable algorithm in C++ using chaining
-
+//Hashtable algorithm in C++ using chaining - Linked lists
 #include<iostream>
 #include<vector>
 #include<cstdlib>
