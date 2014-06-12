@@ -1,8 +1,10 @@
 #include<iostream>
+#include<algorithm>
+#include<cstdlib>
 #include<cmath>
 #include<vector>
 using namespace std;
-
+#define big 100001
 vector<int> primes;
 
 int main(){
@@ -20,7 +22,7 @@ int main(){
     int t;
     long long m,n;
     cin>>t;
-    int A[100001];
+    int A[big];
     for(int i=0; i<t;i++){
         cin>>m>>n;
         for(int j=0; j<=n-m;j++) A[j]=1;
