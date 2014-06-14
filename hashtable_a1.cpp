@@ -1,7 +1,5 @@
 #include<iostream>
-#include<cmath>
 #include<vector>
-#include<algorithm>
 using namespace std;
 
 class Node
@@ -10,7 +8,7 @@ public:
 	int data;
 	Node *next;
 	Node *prev;
-	Node(int p,int d,int n)
+	Node(Node* p,int d,Node* n)
 	{
 		prev = p;
 		data = d;
@@ -21,6 +19,8 @@ public:
 
 class Hashtable
 {
+public:
+
 	//Creating a vector of pointers of given input size
 	int table_size;
 	vector<Node*> *bucket;
@@ -58,38 +58,18 @@ class Hashtable
 
 	}
 
-	void removee(int ke)
+	void printt()
 	{
 		for(int i=0;i<table_size;i++)
 		{
 			Node *q = bucket->at(i);
 			if(q==NULL)
-				return;
-			else
-			{
-				while(q->data!=ke)
-				{
-					q=q->next;
-				}
-				Node *temp = q->prev;
-				q->prev = q->next;
-				q->next = temp;
-				delete q;
-			}
-
-		}
-	}
-
-	void printt()
-	{
-		for(int i=0;i<table_size;i++)
-		{
-			Node *q = bucket.at(i);
-			if(q==NULL)
 				continue;
-			while(q->next!=NULL)
+			while(q!=NULL)
 			{
 				cout<<q->data;
+				q=q->next;
+
 			}
 
 		}
@@ -99,16 +79,16 @@ class Hashtable
 
 int main()
 {
-	Hashtable ht(8);
-	ht.insertt(36);
-	ht.insertt(72);
-	ht.insertt(18);
-	ht.insertt(43);
-	ht.insertt(6);
-	ht.insertt(10);
-	ht.insertt(5);
-	ht.insertt(15);
-	ht.printt();
-	return 0;
+	int arg1,arg2;
+	cout<<"Enter the size:"<<endl;
+	cin>>arg1;
+	Hashtable ht(arg1);
+	for(int i=0;i<arg1;i++)
+    {
+        cin>>arg2;
+        ht.insertt(arg2);
+    }
+    ht.printt();
+    return 0;
 
 }
