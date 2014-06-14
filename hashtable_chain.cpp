@@ -1,8 +1,15 @@
+//Hashtable algorithm in C++ using chaining - Linked lists
 #include<iostream>
 #include<cmath>
+<<<<<<< HEAD
 #include<vector>
 #include<algorithm>
 using namespace std;
+=======
+#include<algorithm>
+
+using namsepace std;
+>>>>>>> 5ec3977d74c5bc4ca78ea976c6034f67b5826cf4
 
 class Node
 {
