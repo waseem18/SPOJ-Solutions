@@ -1,3 +1,5 @@
+//HASHTABLE attempt-2. Insertion and priniting.
+//To enable deleting, double linked list is of best choice.
 #include<iostream>
 #include<vector>
 #include<algorithm>
