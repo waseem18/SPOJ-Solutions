@@ -1,4 +1,6 @@
-typedef vector<int> vi; 
+ Useful macros to be used in solving algorithmic challenges.
+ 
+ typedef vector<int> vi; 
  typedef vector<vi> vvi; 
  typedef pair<int,int> ii; 
  #define sz(a) int((a).size()) 
