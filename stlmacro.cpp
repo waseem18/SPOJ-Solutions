@@ -1,3 +1,5 @@
+//Mostly used in competitive programming!
+//#define doesn't increase the time complexity of the program. Therefore it's advisable to use it!
 #include<iostream>
 #include<set>
 #include<algorithm>
