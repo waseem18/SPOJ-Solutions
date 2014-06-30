@@ -1,4 +1,7 @@
-typedef vector<int> vi; 
+ Useful macros to be used in solving algorithmic challenges.
+ Source: http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=standardTemplateLibrary#map
+ 
+ typedef vector<int> vi; 
  typedef vector<vi> vvi; 
  typedef pair<int,int> ii; 
  #define sz(a) int((a).size()) 
