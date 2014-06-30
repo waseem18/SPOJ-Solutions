@@ -1,0 +1,545 @@
+[33mcommit 66643059ad05d23c48371844f3e0e785a15794f6[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Sun Jun 22 23:57:06 2014 +0530
+
+    Macros and templates for competitive programming mainly topcoder
+
+[33mcommit 20f6bab80c461b145007f9ab92a9728486c06964[m
+Merge: 2df0c8c a251d06
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Sun Jun 22 22:55:18 2014 +0530
+
+    Merge branch 'master' of https://github.com/waseem18/SPOJ-Solutions
+
+[33mcommit 2df0c8c7c516de8b3785bad08ef8b6f6042d7954[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Sun Jun 22 22:55:06 2014 +0530
+
+    Usage of Macro's with STL for fastness
+
+[33mcommit a251d062152b3df58c33266fd6bfd7b7e1a98899[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Fri Jun 20 18:07:03 2014 +0530
+
+    Update README.md
+
+[33mcommit 0ca5f750107ad819f0043462728bd756c34a8872[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Fri Jun 20 18:06:47 2014 +0530
+
+    Update README.md
+
+[33mcommit 37f71b14d1a9a74acec40803fdd09b1d9e9e4b51[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Mon Jun 16 23:17:30 2014 +0530
+
+    Update hahstable_a2.cpp
+    
+    comments updated
+
+[33mcommit ec5d050f705b164cc08aed85304c08438d05da2b[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Sun Jun 15 09:24:57 2014 +0530
+
+    Hashtable chaining - Insertion and printing
+
+[33mcommit dfa2e2bb7cf6078a8a1fcd7d4425f4e3d45a5e31[m
+Merge: 2d398b0 5ec3977
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Sat Jun 14 20:12:44 2014 +0530
+
+    updated
+
+[33mcommit 2d398b0da0bbe880970317b8aa160f0a4db80556[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Sat Jun 14 20:07:17 2014 +0530
+
+    Approach 1. but terminated with error.
+
+[33mcommit 5ec3977d74c5bc4ca78ea976c6034f67b5826cf4[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Thu Jun 12 19:03:03 2014 +0530
+
+    Update prime1.cpp
+    
+    updated
+
+[33mcommit fbac2f5ab8211c2913e7402b03101975eb485ae6[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Wed Jun 11 20:14:48 2014 +0530
+
+    Update hashtable_chain.cpp
+    
+    updated
+
+[33mcommit 7ba83b8cd0dec6651c41957af86da67eff22c466[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Wed Jun 11 20:14:20 2014 +0530
+
+    Update hashtable_chain.cpp
+    
+    updated
+
+[33mcommit 5dc6d5f5406a7c36560f7fedbf865dcdf0673646[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Wed Jun 11 20:13:34 2014 +0530
+
+    Update hashtable_chain.cpp
+    
+    updated
+
+[33mcommit ae7bdb1bcd9a680fc91dfdb9fa8d833cc2f68645[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Mon Jun 9 18:00:35 2014 +0530
+
+    Hash table implementation using chaining - Linked list
+
+[33mcommit ace2aa17a2e4ea0c950cc1eece326cd722a71647[m
+Merge: 17b3fda dbdf815
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Sun Jun 8 11:15:32 2014 +0530
+
+    Merge branch 'master' of https://github.com/waseem18/SPOJ-Solutions
+
+[33mcommit 17b3fda1f49ce76f765632fe9755ecf84f216f26[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Sun Jun 8 11:15:05 2014 +0530
+
+    Trial division to find the prime factorisation of a number
+
+[33mcommit dbdf815219daf0881d3abc7bb5758b5078dbb341[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Mon Jun 2 21:45:00 2014 +0530
+
+    Update README.md
+
+[33mcommit f49a377eeeb0acc787ddfbb226b28c3e7c35e7f2[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Mon Jun 2 21:44:44 2014 +0530
+
+    Update README.md
+
+[33mcommit dc07249806ec77a2f9179406c9d30a63eb0c6cc1[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Mon Jun 2 21:44:31 2014 +0530
+
+    Update README.md
+
+[33mcommit b25ccb63b17d2c8a2f4a4ac9e7186f2ad861d1bb[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Mon Jun 2 21:44:15 2014 +0530
+
+    Update README.md
+
+[33mcommit 57657ba5cfe87ebea0520fe34068ca99efd9e04e[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Sat May 31 22:17:18 2014 +0530
+
+    Update README.md
+
+[33mcommit 7c2a1f87b41fe13abefd5d0cbfbc54bd8ad77735[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Sat May 31 22:17:10 2014 +0530
+
+    Update README.md
+
+[33mcommit 2043f3024cfafbbd89b6152df169ed85b5d66920[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Sat May 31 22:17:02 2014 +0530
+
+    Update README.md
+
+[33mcommit 13b20782967420694b8cc6e3ecc9945454f8f635[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Sat May 31 22:16:55 2014 +0530
+
+    Update README.md
+
+[33mcommit c6d65a89e0e292d268c907e33ed883d2e2c2783e[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Sat May 31 22:16:47 2014 +0530
+
+    Update README.md
+
+[33mcommit 497b046f96ee1cb431244d4ebb13cb304e0aaa49[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Sat May 31 22:16:39 2014 +0530
+
+    Update README.md
+
+[33mcommit b1f84a7777589595af10edb691ddd93616dc7832[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Sat May 31 22:16:31 2014 +0530
+
+    Update README.md
+
+[33mcommit 4e58c3937cfb72f051a8fa099dc3cd5f159c5e57[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Sat May 31 22:16:23 2014 +0530
+
+    Update README.md
+
+[33mcommit 8708224be0b4bab7c217eaa148ff578cc6823822[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Sat May 31 22:16:13 2014 +0530
+
+    Update README.md
+
+[33mcommit d9e12edf387f8e371809349428e62a9e49344be2[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Sat May 31 22:16:04 2014 +0530
+
+    Update README.md
+
+[33mcommit 2e692cc2cf6e50b2dd949aaa6ae4a13f4fddbcca[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Sat May 31 22:15:40 2014 +0530
+
+    Update README.md
+    
+    updated
+
+[33mcommit 3d815e035a77b2a3415e26e18a9a5af21042bd95[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Fri May 30 17:50:15 2014 +0530
+
+    SPOJ GCD2
+
+[33mcommit b8d0ecc85f1883c430c624cd2bf5aa23b98d112f[m
+Merge: eee2d99 05412eb
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Fri May 30 11:42:36 2014 +0530
+
+    Merge branch 'master' of https://github.com/waseem18/SPOJ-Solutions
+
+[33mcommit eee2d99f6850f43e76df0791f154faf0e306a9be[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Fri May 30 11:42:22 2014 +0530
+
+    Segmented Sieve of ERATOSTHENES
+
+[33mcommit 05412ebcfee47db6ae14c9cc81ae7c898778e2c8[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Thu May 29 22:34:19 2014 +0530
+
+    Update README.md
+
+[33mcommit 7c87e0e7ae6c33e4f43199f03ded5510cf364bd2[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Thu May 29 22:34:06 2014 +0530
+
+    Update README.md
+
+[33mcommit 009bacf6fd04ab5a194367d24eb168b7e4fd1858[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Thu May 29 22:33:57 2014 +0530
+
+    Update README.md
+
+[33mcommit d4a355d7335dbabb455fa4f566ac3effff24c612[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Thu May 29 22:33:48 2014 +0530
+
+    Update README.md
+
+[33mcommit 7151e812c3fc426415b46a0df036e69be2fa62fe[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Thu May 29 22:33:26 2014 +0530
+
+    Update README.md
+
+[33mcommit c334dc1de4956e364707dc197084cb00bc2e7947[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Thu May 29 22:33:13 2014 +0530
+
+    Update README.md
+
+[33mcommit b434f536ef3c5d69ec2312ba45033194f0107ccb[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Thu May 29 22:33:02 2014 +0530
+
+    Update README.md
+    
+    updated
+
+[33mcommit e0380476bce239e0d45f71b5420882e91b1db17e[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Thu May 29 22:32:38 2014 +0530
+
+    Update README.md
+    
+    updated
+
+[33mcommit 882fba2ba393f990d87daf137e74ed7f107a0a29[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Thu May 29 14:15:50 2014 +0530
+
+    MODULAR INVERSE - EXTENDED EUCLEDIAN THEOREM
+
+[33mcommit 39d29714a6321d226891111435d96b47adc340cb[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Thu May 29 12:35:19 2014 +0530
+
+    MODULAR INVERSE - EXTENDED EUCLEDIAN THEOREM
+
+[33mcommit c8947efaa249841dc62a625fb0926c592da90ca1[m
+Merge: 783a4fb 62ba98d
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Thu May 29 12:31:12 2014 +0530
+
+    Merge branch 'master' of https://github.com/waseem18/SPOJ-Solutions
+
+[33mcommit 783a4fbcca34ba22e9b149062bcdef9f18859993[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Thu May 29 12:30:18 2014 +0530
+
+    MODULAR INVERSE - EXTENDED EUCLEDIAN THEOREM
+
+[33mcommit 0ddfca619bb949d99a5e4108a6953926dda2717e[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Wed May 28 21:57:38 2014 +0530
+
+    Factorial of a large number
+
+[33mcommit 62ba98d017182743749c06a5beea5c4753f52f11[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Wed May 28 17:21:02 2014 +0530
+
+    Update README.md
+    
+    updated
+
+[33mcommit 77963dc946dc6ee870041dc9bf680c3a16cce666[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Wed May 28 17:20:47 2014 +0530
+
+    Update README.md
+    
+    updated
+
+[33mcommit a690157da68737560bce484e256001012c00f2bb[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Wed May 28 17:20:30 2014 +0530
+
+    Update README.md
+    
+    updated
+
+[33mcommit c474a59d8af064811b609dc32e7e2197efeda41c[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Wed May 28 17:20:16 2014 +0530
+
+    Update README.md
+    
+    updated
+
+[33mcommit b1b33137040c16801fda3ff6e9c800aab6625a22[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Wed May 28 17:19:29 2014 +0530
+
+    Update README.md
+    
+    updated
+
+[33mcommit 84894c14091f9a20922250d198cc34e7da84b835[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Wed May 28 17:19:07 2014 +0530
+
+    Update README.md
+    
+    few changes
+
+[33mcommit 433276ad08b6d9d52c98cc4d8b823aa5259cf0ee[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Wed May 28 17:18:44 2014 +0530
+
+    Update README.md
+    
+    updated
+
+[33mcommit 0935fe2af649386cd5a3185c8c621e2358f41e1c[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Wed May 28 17:18:21 2014 +0530
+
+    Update README.md
+    
+    updated
+
+[33mcommit c565fb3940e10d10df526c2b6f1b40540842c587[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Wed May 28 17:17:49 2014 +0530
+
+    Update README.md
+    
+    Changes made
+
+[33mcommit a971548ef54020c1f744b2d841869d728e90bd57[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Wed May 28 17:17:17 2014 +0530
+
+    Update README.md
+    
+    updated
+
+[33mcommit e17c419a3a477da2a152a36d96119f03450ed24d[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Wed May 28 17:16:49 2014 +0530
+
+    Update README.md
+    
+    updated
+
+[33mcommit 2e5a7edbd32d5a9319cd02f9822cb855a84fc083[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Wed May 28 17:16:13 2014 +0530
+
+    Update README.md
+
+[33mcommit eb318d08c1604e07266a9cd4dff5ffd1ecf7dd05[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Tue May 27 22:37:18 2014 +0530
+
+    Update README.md
+    
+    updated
+
+[33mcommit 6eae284c8fea73f5edeb41062ddbdaadd4a5e146[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Tue May 27 22:36:52 2014 +0530
+
+    Update README.md
+    
+    Updated
+
+[33mcommit 62074f6d7e9b84d2d5d4c106a4eaee0e47aeb4f8[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Mon May 26 19:15:45 2014 +0530
+
+    SPOJ LASTDIGIT Modular Exponentiation
+
+[33mcommit fe492e52051c12761c0f119f248c76a240d266dd[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Sun May 25 22:02:52 2014 +0530
+
+    SPOJ CLASSICAL LASTDIG. using Modular Exponentiation
+
+[33mcommit aed39461de110ca1d3865d7ff4412f4c137b5b50[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Sun May 25 12:09:17 2014 +0530
+
+    UVA IRREDUCIBLE BASIC FRACTIONS. TLE
+
+[33mcommit a5c4c80772035b1f45aff1becd9bb5f1430f9f11[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Sat May 24 17:37:14 2014 +0530
+
+    SPOJ CLASSICAL ACPC10A
+
+[33mcommit a65d9bdd5a4ac9b6fa03ad74f1a4c38f64f59373[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Sat May 24 13:16:32 2014 +0530
+
+    SPOJ CLASSICAL CANDY1
+
+[33mcommit 9d012d814ef0a4d92c56baabdc44ae94eeabd358[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Sat May 24 01:00:16 2014 +0530
+
+    SPOJ CLASSICAL PRIME1
+
+[33mcommit d0073708971e65d0c8ac9bd938d926ee7ef46a2e[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Fri May 23 19:14:31 2014 +0530
+
+    Finding primes numbers by Sieve of Eratosthenes
+
+[33mcommit 211d6bd27051fad4b38fe7398982509274ebe0ac[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Fri May 23 16:48:58 2014 +0530
+
+    SPOJ ADDREV CLASSICAL
+
+[33mcommit 1f5f307cb73a3a71172256df6351984acf3225ff[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Fri May 23 03:43:11 2014 +0530
+
+    spoj classical NSTEPS
+
+[33mcommit 5a606c6fa77e6519616020c0b4844212d5120530[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Fri May 23 03:09:35 2014 +0530
+
+    spoj classical AE00
+
+[33mcommit 3d7766e97c482307b0f07dedad07242d2be8724e[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Fri May 23 00:55:18 2014 +0530
+
+    spoj classical , small factorial
+
+[33mcommit 7de8dc98de69448c8386336e308a64499d20e34f[m
+Merge: 127e7d4 e591c62
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Fri May 23 00:52:47 2014 +0530
+
+    Merge branch 'master' of https://github.com/waseem18/SPOJ-Solutions
+
+[33mcommit 127e7d4e7551c7845e36d58561d4a516333d5721[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Fri May 23 00:51:36 2014 +0530
+
+    finding factorial for higher numbers
+
+[33mcommit e591c62d4c5d6368fef2e08137b9791a0fb48caa[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Thu May 22 15:55:46 2014 +0530
+
+    Update README.md
+
+[33mcommit 13fbb31b649259ebb5809382a7aed77e5dfa1177[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Thu May 22 15:54:57 2014 +0530
+
+    Update README.md
+
+[33mcommit c875d9c6093143c659cefdfece447d91cc4359c7[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Thu May 22 14:18:48 2014 +0530
+
+    tsort spoj tutorial
+
+[33mcommit f2652215364279e180b51115f0927809218294cd[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Thu May 22 13:27:32 2014 +0530
+
+    tutorial divsum spoj
+
+[33mcommit 4a42e87bb1f3b0e89a3a76342863a56257bcafaa[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Thu May 22 12:14:02 2014 +0530
+
+    Added another method . segmented sieve of erastosthenes
+
+[33mcommit d6ba220daf766fc8434a6d016eff0199365ebc24[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Thu May 22 01:36:56 2014 +0530
+
+    added some code to prime1.cpp
+
+[33mcommit 221e3142e1012374a6268479342b2a564b4a4919[m
+Author: Wasim Thabraze <waseem.tabraze@gmail.com>
+Date:   Wed May 21 23:44:13 2014 +0530
+
+    Added code to sieve-primes.cpp
+
+[33mcommit 3903ba5d1c9eb1b870c48fa1ddd6f72ccca359a9[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Wed May 21 23:38:02 2014 +0530
+
+    Update README.md
+
+[33mcommit 17b11a80979c7b0d4195778adf456861132fa6e2[m
+Author: Waseem Tabraze <waseem.tabraze@gmail.com>
+Date:   Wed May 21 11:05:03 2014 -0700
+
+    Initial commit
