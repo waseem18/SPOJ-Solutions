@@ -1,3 +1,5 @@
+//Eulers Algorithm
+
 #include<iostream>
 #include<cstdio>
 #include<cstring>
