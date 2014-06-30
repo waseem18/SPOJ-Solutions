@@ -1,4 +1,5 @@
 //Chinese remainder theorem
+//https://www.cs.cmu.edu/~adamchik/21-127/lectures/divisibility_5_print.pdf
 #include<iostream>
 using namespace std;
 
