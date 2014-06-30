@@ -2,6 +2,7 @@
 //Linear diophantine equation and the modular inverse.
 //Modular inverse of 'ax=1 mod m' is the value of 'x' = a^-1.
 //gcd(a,m) should be equal to 1.
+
 //https://www.cs.cmu.edu/~adamchik/21-127/lectures/divisibility_5_print.pdf
 
 
