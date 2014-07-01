@@ -27,8 +27,8 @@ int eea(int a,int b,int c,int &x,int &y)
 
 int main()
 {
-    int x,y,c=40;
-    int p = eea(56,72,c,x,y);
+    int x,y,c=8404;
+    int p = eea(1024,3125,c,x,y);
     int x0 = (x*c)/p;
     int y0 = (y*c)/p;
     cout<<x0<<"  "<<y0<<endl;
